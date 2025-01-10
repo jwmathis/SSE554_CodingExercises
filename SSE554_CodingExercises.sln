@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module18_Exercise1", "SSE554_CodingExercises.vcxproj", "{04803E56-199F-41F6-B07D-7BB77B845AE9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module19_Exercise1", "..\Module19_Exercise1\Module19_Exercise1.vcxproj", "{90129413-0748-4AE3-9CB3-AC5A3E26F6A8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module19_Exercise2", "Module19_Exercise2\Module19_Exercise2.vcxproj", "{B8B47A45-6938-448B-936B-3E6602389CBD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module19_Exercise1", "Module19_Exercise1\Module19_Exercise1.vcxproj", "{90129413-0748-4AE3-9CB3-AC5A3E26F6A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,14 @@ Global
 		{04803E56-199F-41F6-B07D-7BB77B845AE9}.Release|x64.Build.0 = Release|x64
 		{04803E56-199F-41F6-B07D-7BB77B845AE9}.Release|x86.ActiveCfg = Release|Win32
 		{04803E56-199F-41F6-B07D-7BB77B845AE9}.Release|x86.Build.0 = Release|Win32
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Debug|x64.ActiveCfg = Debug|x64
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Debug|x64.Build.0 = Debug|x64
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Debug|x86.Build.0 = Debug|Win32
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Release|x64.ActiveCfg = Release|x64
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Release|x64.Build.0 = Release|x64
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Release|x86.ActiveCfg = Release|Win32
+		{B8B47A45-6938-448B-936B-3E6602389CBD}.Release|x86.Build.0 = Release|Win32
 		{90129413-0748-4AE3-9CB3-AC5A3E26F6A8}.Debug|x64.ActiveCfg = Debug|x64
 		{90129413-0748-4AE3-9CB3-AC5A3E26F6A8}.Debug|x64.Build.0 = Debug|x64
 		{90129413-0748-4AE3-9CB3-AC5A3E26F6A8}.Debug|x86.ActiveCfg = Debug|Win32
