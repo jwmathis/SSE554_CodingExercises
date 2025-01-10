@@ -21,7 +21,7 @@ public:
     }
 };
 
-// 2. Create a DoublyLinkedList Class with find methods
+// 2. Create a DoublyLinkedList Class with append methods and traversal methods
 class DoublyLinkedList {
 public:
     Node* head;
