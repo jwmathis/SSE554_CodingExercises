@@ -1,6 +1,6 @@
 // Jan 14 2025
 // Module21_Exercise1.cpp
-// 
+// Representing a Maze as non-binary tree structure
 
 #include <iostream>
 #include <string>
