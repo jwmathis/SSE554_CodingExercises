@@ -1,6 +1,6 @@
 // Jan 18 2025
 // Module21_Exercise3.cpp
-//
+// Implementing a number search using a Binary Search Tree, including dynamically creating a tree structure
 
 #include <iostream>
 
@@ -58,31 +58,6 @@ int main()
 	for (int value : values) {
 		tree = insert(tree, value);
 	}
-
-	//Node* tree = new Node(50);
-	//tree->left = new Node(13);
-	//tree->right = new Node(82);
-
-	//tree->left->left = new Node(10);
-	//tree->left->right = new Node(25);
-	//tree->right->left = new Node(71);
-	//tree->right->right = new Node(93);
-
-	//tree->left->left->left = new Node(2);
-	//tree->left->left->right = new Node(12);
-	//tree->left->right->left = new Node(17);
-	//tree->left->right->right = new Node(49);
-	//tree->right->left->left = new Node(51);
-	//tree->right->left->right = new Node(77);
-	//tree->right->right->left = new Node(90);
-	//tree->right->right->right = new Node(99);
-
-	// Search for numbers in BST
-	//binary_search(tree, 99);
-	//binary_search(tree, 18);
-	//binary_search(tree, 50);
-	//binary_search(tree, 49);
-	//binary_search(tree, 42);
 
 	int search_nums[] = { 99, 18, 50, 49, 42 };
 	for (int num : search_nums) {

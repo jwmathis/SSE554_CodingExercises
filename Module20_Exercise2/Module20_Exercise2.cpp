@@ -1,5 +1,6 @@
+// Jan 13 2025
 // Module20_Exercise2.cpp
-//
+// Prompting user for input, then displaying series of messages about the numbers taking turns using a Queue
 
 #include <iostream>
 

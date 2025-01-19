@@ -34,34 +34,6 @@ bool find_path_to_exit(Node* root, vector<string>& path) {
 	path.pop_back(); // remove direction if dead end
 	return false; // No path found for exit
 }
-//void print_tree(Node* root, int level = 0) {
-//	if (root == nullptr) {
-//		cout << "end";
-//		return;
-//	}
-//
-//	for (int i = 0; i < level; i++) {
-//		cout << "  ";
-//	}
-//	cout << root->data << endl;
-//
-//	for (Node* child : root->children) {
-//		print_tree(child, level + 1);
-//	}
-//}
-//void print_tree(Node* tree, int level = 0) {
-//	string s = "";
-//	if (tree != NULL) {
-//		print_tree(tree->right, level + 1);
-//
-//		for (int i = 0; i < level; i++) {
-//			s += "| ";
-//		}
-//		s += to_string(tree->data);
-//		cout << s << endl;
-//		print_tree(tree->left, level + 1);
-//	}
-//}
 
 int main()
 {
@@ -94,8 +66,6 @@ int main()
 
 	child6->add_child(nullptr);
 	child6->add_child(nullptr);
-
-	//print_tree(root);
 
 	vector<string> path;
 	if (find_path_to_exit(root, path)) {
