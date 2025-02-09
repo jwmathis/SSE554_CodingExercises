@@ -1,0 +1,6 @@
+My name is John 13 jumping.
+This is a test 7.
+To see how reading a file works in cpp 5.
+Peter parker picked a peck of pickled peppers
+How much wood could a woodchuck chuck if a woodchuck could chuck wood?
+She sells seashells by the seashore
