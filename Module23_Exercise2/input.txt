@@ -1,6 +1,8 @@
-My name is John 13 jumping.
-This is a test 7.
+My name is John Wesley 13 jumping.
+This 7 is a test
 To see how reading a file works in cpp 5.
 Peter parker picked a peck of pickled peppers
 How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 She sells seashells by the seashore
+Betty decided to write a short story and she was sure it was going to be amazing. 
+She had already written it in her head and each time she thought about it she grinned from ear to ear knowing how wonderful it would be. She could imagine the accolades coming in and the praise she would receive for creating such a wonderful piece. She was therefore extremely frustrated when she actually sat down to write the short story and the story that was so beautiful inside her head refused to come out that way on paper.

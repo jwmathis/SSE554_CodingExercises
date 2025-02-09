@@ -5,6 +5,7 @@
 // the number of words that end with "ing"
 // the number of words with more than six letters.
 // https://www.geeksforgeeks.org/count-occurrences-of-a-word-in-string-set-2-using-regular-expressions/
+// Random paragraph was generated from: https://randomwordgenerator.com/paragraph.php
 
 #include <iostream>
 #include <fstream>
