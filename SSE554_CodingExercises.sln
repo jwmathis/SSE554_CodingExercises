@@ -29,11 +29,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module24_Exercise1", "Modul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module24_Exercise2", "Module24_Exercise2\Module24_Exercise2.vcxproj", "{2509B546-BCF2-45AC-887B-B534E4B7E369}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module24_Exercise3", "..\Module24_Exercise3\Module24_Exercise3.vcxproj", "{017C4C39-FC25-4B59-86AD-93A67DB1E43A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module24_Exercise3", "Module24_Exercise3\Module24_Exercise3.vcxproj", "{017C4C39-FC25-4B59-86AD-93A67DB1E43A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module26_Exercise1", "..\Module26_Exercise1\Module26_Exercise1.vcxproj", "{1D565378-BDB1-4B4C-9E19-1158F7CBB395}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module26_Exercise1", "Module26_Exercise1\Module26_Exercise1.vcxproj", "{1D565378-BDB1-4B4C-9E19-1158F7CBB395}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module28_Exercise1", "..\Module28_Exercise1\Module28_Exercise1.vcxproj", "{B47ED2D8-2FE4-4FEE-BC0D-8BE79906EEDC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module28_Exercise1", "Module28_Exercise1\Module28_Exercise1.vcxproj", "{B47ED2D8-2FE4-4FEE-BC0D-8BE79906EEDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
